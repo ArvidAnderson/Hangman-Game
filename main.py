@@ -96,7 +96,6 @@ def word_to_list():
         correct_word_list.append(i)
     return correct_word_list
 
-
 def game_over():
     print(hangman_states[7])
     print("Game Over")
