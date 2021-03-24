@@ -151,7 +151,7 @@ def main():
         else:
             print("Guess again")
             wrong_count.append("X")
-
+        clear()
 #Runs main() on start
 if __name__ == '__main__':
     main()
